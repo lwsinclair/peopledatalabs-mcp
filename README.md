@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phxdev1-peopledatalabs-mcp-badge.png)](https://mseep.ai/app/phxdev1-peopledatalabs-mcp)
+
 # People Data Labs MCP Server
 
 This is a Model Context Protocol (MCP) server that wraps the [People Data Labs API](https://docs.peopledatalabs.com/). It provides comprehensive access to People Data Labs' various data models and search capabilities.
